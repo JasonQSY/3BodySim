@@ -1,6 +1,6 @@
 # 3BodySim
 
-Simulate the motion of three body model - the sun, the Jupiter and the waste in UPC 2016 Problem A.
+Simulate the motion of three body model - the sun, the Jupiter and the waste in UPC 2016 Problem A. Motivated by [3Body2Py](https://github.com/davidsousarj/3Body2Py.git). Thanks him very much.
 
 ## Background
 
